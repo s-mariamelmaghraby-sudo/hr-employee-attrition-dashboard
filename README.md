@@ -112,7 +112,7 @@ This project demonstrates practical skills in:
 
 Add a screenshot of the dashboard here:
 
-`![HR Analytics Dashboard](HR_Analytics.png)`
+![HR Analytics Dashboard](./HR_Analytics.png)
 
 ---
 
