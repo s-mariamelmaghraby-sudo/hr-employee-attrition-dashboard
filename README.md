@@ -110,7 +110,7 @@ This project demonstrates practical skills in:
 
 ##  Dashboard Preview
 
-Add a screenshot of the dashboard here:
+
 
 ![HR Analytics Dashboard](./HR_Analytics.png)
 
